@@ -1,0 +1,5 @@
+﻿  GameEngine.cpp
+  Scene_Menu.cpp
+  Scene_Play.cpp
+D:\Assignments\CS 4300\FP\src\Scene_Play.cpp(205,30): warning C4305: '*=': truncation from 'double' to 'float'
+  SFMLGame.vcxproj -> D:\Assignments\CS 4300\FP\visualstudio\../bin/SFMLGame_d.exe

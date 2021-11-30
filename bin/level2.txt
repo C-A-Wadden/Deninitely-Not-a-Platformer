@@ -1,0 +1,270 @@
+Dec bFloatMR  2 6
+Dec bFloatMR  2 5
+Dec bFloatMR  2 4
+Dec bFloatMR  2 3
+Dec bFloat3  2 2
+Dec bFloatTR  3 2
+Dec bFloatMM  0 5
+Dec bFloatMM  0 4
+Dec bFloatMM  0 3
+Dec bFloatMM  0 2
+Dec bFloatMM  1 5
+Dec bFloatMM  1 4
+Dec bFloatMM  1 3
+Dec bFloatMM  1 2
+Dec BushL     0 8
+Dec BushM     1 8
+Dec BushR     2 8
+
+Tile FloatTM  0 1
+Tile FloatTM  1 1
+Tile FloatTM  2 1
+Tile FloatTM  3 1
+Tile FloatTM  4 1
+Tile FloatTM  5 1
+Tile FloatTM  6 1
+Tile FloatTM  7 1
+Tile FloatTR  8 1
+Tile FloatMM  0 0
+Tile FloatMM  1 0
+Tile FloatMM  2 0
+Tile FloatMM  3 0
+Tile FloatMM  4 0
+Tile FloatMM  5 0
+Tile FloatMM  6 0
+Tile FloatMM  7 0
+Tile FloatMR  8 0
+Tile FloatBM  0 5
+Tile FloatBM  1 5
+Tile FloatBR  2 5
+Tile FloatBR  3 6
+Tile FloatTR  3 7
+Tile FloatTM  2 7
+Tile FloatTM  1 7
+Tile FloatTM  0 7
+Tile Float2   2 6
+Tile FloatMM  1 6
+Tile FloatMM  0 6
+
+Dec Grass2    0 7
+Dec Grass3    1 7
+Dec Grass2    2 7
+Dec GrassR    3 7
+
+Tile FloatBL  12 5
+Tile FloatTL  12 6
+Tile FloatBR  13 5
+Tile FloatTR  13 6
+Tile GrassL   12 6
+Tile GrassR   13 6
+
+Tile FloatBR  8 8
+Tile FloatTR  8 9
+Tile FloatBL  7 8
+Tile FloatTL  7 9
+Tile GrassL   7 9
+Tile GrassR   8 9
+
+Tile FloatTL  21 6
+Tile FloatBL  21 5
+Tile FloatTM  22 6
+Tile FloatBM  22 5
+Tile FloatTM  23 6
+Tile FloatBM  23 5
+Tile FloatTR  24 6
+Tile FloatBR  24 5
+Tile GrassL   21 6
+Tile Grass2   22 6
+Tile Grass3   23 6
+Tile GrassR   24 6
+PickUp Bridge 22 7 3
+PickUp Bridge 22 7 3
+PickUp Bridge 22 7 3
+PickUp Bridge 22 7 3
+PickUp Bridge 22 7 3
+PickUp Bridge 22 7 3
+PickUp Bridge 22 7 3
+
+Text 21 9 15 ______Build_a_bridge
+Text 20 8 15 ____Press_e_to_switch_weapons
+
+Tile FloatBL  34 7
+Tile FloatTL  34 8
+Tile FloatBM  35 7
+Tile FloatTM  35 8
+Tile Float3   36 7
+Tile FloatTM  36 8
+Tile FloatML  36 6
+Tile FloatML  36 5
+Tile FloatML  36 4
+Tile FloatML  36 3
+Tile FloatML  36 2
+Tile FloatML  36 1
+Tile FloatML  36 0
+Tile FloatTR  37 8
+Tile FloatMR  37 7
+Tile FloatMR  37 6
+Tile FloatMR  37 5
+Tile FloatMR  37 4
+Tile FloatMR  37 3
+Tile FloatMR  37 2
+Tile FloatMR  37 1
+Tile FloatMR  37 0
+
+Tile FloatML  41 12
+Tile FloatML  41 11
+Tile FloatML  41 10
+Tile FloatML  41 9
+Tile FloatML  41 8
+Tile FloatML  41 7
+Tile FloatML  41 6
+Tile FloatML  41 5
+Tile FloatBL  41 4
+Tile FloatMM  42 12
+Tile FloatMM  42 11
+Tile FloatMM  42 10
+Tile FloatMM  42 9
+Tile FloatMM  42 8
+Tile Float2  42 7
+Tile FloatMR   42 6
+Tile FloatMR  42 5
+Tile FloatBR  42 4
+Tile FloatMM  43 12
+Tile FloatMM  43 11
+Tile FloatMM  43 10
+Tile FloatMM  43 9
+Tile FloatMM  43 8
+Tile FloatBM  43 7
+Tile FloatMM  44 12
+Tile FloatMM  44 11
+Tile FloatMM  44 10
+Tile FloatMM  44 9
+Tile FloatMM  44 8
+Tile FloatBM  44 7
+Tile FloatMM  45 12
+Tile FloatMM  45 11
+Tile FloatMM  45 10
+Tile FloatMM  45 9
+Tile FloatMM  45 8
+Tile FloatBM  45 7
+Tile FloatMR  46 12
+Tile FloatMR  46 11
+Tile FloatMR  46 10
+Tile FloatMR  46 9
+Tile FloatMR  46 8
+Tile FloatBR  46 7
+
+Tile FloatTL  42 0
+Tile FloatTM  43 0
+Tile FloatTM  44 0
+Tile FloatTR  45 0
+
+Text 40 2 15 ________Use_weapon_to_propel_from_walljump
+
+PickUp Bridge 56 1 3
+PickUp Bridge 56 1 3
+
+Tile FloatTL  46 4
+Tile FloatBL  46 3
+Tile FloatTM  47 4
+Tile Float3   47 3
+Tile FloatTM  48 4
+Tile FloatMM  48 3
+Tile FloatTM  49 4
+Tile FloatMM  49 3
+Tile FloatTR  50 4
+Tile Float7   50 3
+Tile FloatTR  51 3
+Tile FloatBL  47 2
+Tile FloatBL  48 1
+Tile FloatBL  49 0
+Tile Float3   48 2
+Tile Float3   49 1
+Tile Float7   51 2
+Tile FloatTR  52 2
+Tile Float7   52 1
+Tile FloatTR  53 1
+Tile Float3   50 0
+Tile FloatMM  51 0
+Tile FloatMM  49 2
+Tile FloatMM  50 2
+Tile FloatMM  50 1
+Tile FloatMM  51 1
+Tile FloatMM  52 0
+Tile Float7   53 0
+Tile FloatTM  54 0
+Tile FloatTM  55 0
+Tile FloatTM  56 0
+Tile FloatTM  57 0
+Tile FloatTR  58 0
+Tile FloatML  60 0
+Tile FloatML  60 1
+Tile FloatML  60 2
+Tile FloatML  60 3
+Tile FloatML  60 4
+Tile FloatML  60 5
+Tile FloatML  60 6
+Tile FloatML  60 7
+Tile FloatML  60 8
+Tile FloatML  60 9
+Tile FloatTL  60 10
+Tile FloatMR  61 0
+Tile FloatMR  61 1
+Tile FloatMR  61 2
+Tile FloatMR  61 3
+Tile FloatMR  61 4
+Tile FloatMR  61 5
+Tile FloatMR  61 6
+Tile FloatMR  61 7
+Tile FloatMR  61 8
+Tile FloatMR  61 9
+Tile FloatTR  61 10
+Tile Bridge   69 9
+Tile Bridge   77 8
+Tile Bridge   85 7
+Tile Bridge   93 6
+Tile FloatTL  103 0
+Tile FloatTM  104 0
+Tile FloatTM  105 0
+Tile FloatTM  106 0
+Tile FloatTR  107 0
+Goal 106 1
+Tile FloatTL  103 4
+Tile FloatTM  104 4
+Tile FloatTM  105 4
+Tile FloatTM  106 4
+Tile FloatTR  107 1
+Tile FloatTR  107 2
+Tile FloatTR  107 3
+Tile FloatTR  107 4
+
+Text 54 4 15 Use_bridges_to_scale_wall
+
+Dec Grass1    47 4
+Dec Grass2    48 4
+Dec Grass3    49 4
+Dec GrassR    50 4
+Dec GrassR    51 3
+Dec Grass1    50 3
+Dec GrassR    52 2
+Dec Grass1    51 2
+Dec GrassR    53 1
+Dec Grass1    52 1
+Dec Grass2    54 0
+Dec Grass1    53 0
+Dec Grass3    55 0
+Dec Grass2    56 0
+Dec Grass3    57 0
+Dec GrassR    58 0
+Dec GrassL    60 10
+Dec GrassR    61 10
+
+Tile FloatMM  125 0
+Tile FloatMM  125 20
+
+NPC Guard 5 6 3 1 1 Follow 3
+NPC Guard 6 4 3 1 1 Follow 3
+NPC Droid 43 1 6 2 2 Patrol 1 2 43 1 45 1
+NPC GoomBot 37 9 3 1 1 Follow 1
+
+Player 2 4 12 19 5 -18 20 0.75

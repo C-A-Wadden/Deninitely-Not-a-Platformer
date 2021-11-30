@@ -1,0 +1,435 @@
+Texture   TexStand   images/character/idle.png    0
+Texture   TexRun     images/character/run.png     0
+Texture   TexAir     images/character/fall.png    0
+Texture   TexSlide   images/character/slide.png   0
+Texture   TexAttack  images/character/attack.png  0
+Texture   TexJump    images/character/jump.png    0
+Texture   TexLand    images/character/land.png    0
+Texture   TexDie     images/character/die.png     0
+Texture   TexHurt    images/character/hurt.png    0
+Texture   TexBuster  images/character/laser.png   0
+Texture   TexArrow   images/character/arrow.png   0
+Texture   TexHeal    images/character/heal.png    0
+Texture   TexHealArrow images/character/healArrow.png 0
+Texture   TexExplode images/misc/explosion128.png 0
+Texture   TexRock1   images/level/0.png           0
+Texture   TexRock2   images/level/11.png          0
+Texture   TexGoal    images/misc/goal.png         0
+Texture   Sky        images/misc/sky.png          0
+Texture   CityBack   images/misc/CityBackground.png 0
+Texture   CityFor    images/misc/CityForeground.png 0
+Texture   CityFor    images/misc/overWorld720.png 0
+Texture   TexbFloat1 images/tileset/bFloat1.png 0
+Texture   TexbFloat2 images/tileset/bFloat2.png 0
+Texture   TexbFloat3 images/tileset/bFloat3.png 0
+Texture   TexbFloat4 images/tileset/bFloat4.png 0
+Texture   TexbFloat5 images/tileset/bFloat5.png 0
+Texture   TexbFloat6 images/tileset/bFloat6.png 0
+Texture   TexbFloatBL images/tileset/bFloatBL.png 0
+Texture   TexbFloatBM images/tileset/bFloatBM.png 0
+Texture   TexbFloatBR images/tileset/bFloatBR.png 0
+Texture   TexbFloatML images/tileset/bFloatML.png 0
+Texture   TexbFloatMM images/tileset/bFloatMM.png 0
+Texture   TexbFloatMR images/tileset/bFloatMR.png 0
+Texture   TexbFloatTL images/tileset/bFloatTL.png 0
+Texture   TexbFloatTM images/tileset/bFloatTM.png 0
+Texture   TexbFloatTR images/tileset/bFloatTR.png 0
+Texture   TexbGrass1  images/tileset/bGrass1.png 0
+Texture   TexbGrass2  images/tileset/bGrass2.png 0
+Texture   TexbGrass3  images/tileset/bGrass3.png 0
+Texture   TexBridge   images/tileset/bridge.png 0
+Texture   TexBushL    images/tileset/bushL.png 0
+Texture   TexBushM    images/tileset/bushM.png 0
+Texture   TexBushR    images/tileset/bushR.png 0
+Texture   TexFence1   images/tileset/fence1.png 0
+Texture   TexFence2   images/tileset/fence2.png 0
+Texture   TexFence3   images/tileset/fence3.png 0
+Texture   TexFence4   images/tileset/fence4.png 0
+Texture   TexFloat1   images/tileset/float1.png 0
+Texture   TexFloat2   images/tileset/float2.png 0
+Texture   TexFloat3   images/tileset/float3.png 0
+Texture   TexFloat4   images/tileset/float4.png 0
+Texture   TexFloat5   images/tileset/float5.png 0
+Texture   TexFloat6   images/tileset/float6.png 0
+Texture   TexFloat7   images/tileset/float7.png 0
+Texture   TexFloat8   images/tileset/float8.png 0
+Texture   TexFloat9   images/tileset/float9.png 0
+Texture   TexFloatBL  images/tileset/floatBL.png 0
+Texture   TexFloatBM  images/tileset/floatBM.png 0
+Texture   TexFloatBR  images/tileset/floatBR.png 0
+Texture   TexFloatML  images/tileset/floatML.png 0
+Texture   TexFloatMM  images/tileset/floatMM.png 0
+Texture   TexFloatMR  images/tileset/floatMR.png 0
+Texture   TexFloatTL  images/tileset/floatTL.png 0
+Texture   TexFloatTM  images/tileset/floatTM.png 0
+Texture   TexFloatTR  images/tileset/floatTR.png 0
+Texture   TexGrass1   images/tileset/grass1.png 0
+Texture   TexGrass2   images/tileset/grass2.png 0
+Texture   TexGrass3   images/tileset/grass3.png 0
+Texture   TexGrass4   images/tileset/grass4.png 0
+Texture   TexGrassL   images/tileset/grassL.png 0
+Texture   TexGrassR   images/tileset/grassR.png 0
+Texture   TexPostL    images/tileset/postL.png 0
+Texture   TexPostR    images/tileset/postR.png 0
+Texture   TexSpikes   images/tileset/spikes.png 0
+Texture   TexInvis    images/misc/invisible.png 0
+Texture   TexFridge   images/misc/fridge.png 0
+Texture   TexFast     images/misc/fast.png 0
+Texture   TexDroidWalk images/enemies/droid_walk.png   0
+Texture   TexDroidAtk images/enemies/droid_atk.png     0
+Texture   TexDroidDeath images/enemies/droid_death.png 0
+Texture   TexDroidDeath images/enemies/droid_death.png 0
+Texture   TexGoomBotWalk images/enemies/goombot_walk.png   0
+Texture   TexGoomBotAtk images/enemies/goombot_atk.png     0
+Texture   TexGoomBotDeath images/enemies/goombot_death.png 0
+Texture   TexGoomBotHurt images/enemies/goombot_hurt.png 0
+Texture   TexGoomBotIdle images/enemies/goombot_idle.png 0
+Texture   TexGoomBotWake images/enemies/goombot_wake.png 0
+Texture   TexGuardWalk images/enemies/guardian_walk.png   0
+Texture   TexGuardAtk images/enemies/guardian_atk.png   0
+Texture   TexGuardDeath images/enemies/guardian_death.png   0
+Texture   TexBossWalk images/enemies/boss_walk.png   0
+Texture   TexBossAtk images/enemies/boss_atk.png     0
+Texture   TexBossDeath images/enemies/boss_death.png 0
+Texture   TexBossHurt images/enemies/boss_hurt.png 0
+Texture   TexBossIdle images/enemies/boss_idle.png 0
+Texture   TexBossWake images/enemies/boss_wake.png 0
+Texture   TexBossTele0 images/enemies/boss_tele0.png 0
+Texture   TexBossTele1 images/enemies/boss_tele1.png 0
+Texture   TexArrowIcon images/icons/arrowIcon.png 0
+Texture   TexHeartIcon images/icons/heartIcon.png 0
+Texture   TexLaserIcon images/icons/laserIcon.png 0
+Texture   TexWin images/enemies/aWinnerIsYou.png 0
+Texture   TexMissle images/enemies/missle.png 0
+Texture   TexAC1 images/city/ac1.png 0
+Texture   TexAC2 images/city/ac2.png 0
+Texture   TexAC3 images/city/ac3.png 0
+Texture   TexAC4 images/city/ac4.png 0
+Texture   TexbPipe1L images/city/bPipe1L.png 0
+Texture   TexbPipe1M images/city/bPipe1M.png 0
+Texture   TexbPipe1R images/city/bPipe1R.png 0
+Texture   TexbPipe2L images/city/bPipe2L.png 0
+Texture   TexbPipe2M images/city/bPipe2M.png 0
+Texture   TexbPipe2R images/city/bPipe2R.png 0
+Texture   TexCeiling images/city/ceiling.png 0
+Texture   TexcWindow1L images/city/cWindow1L.png 0
+Texture   TexcWindow1M images/city/cWindow1M.png 0
+Texture   TexcWindow1R images/city/cWindow1R.png 0
+Texture   TexcWindow2L images/city/cWindow2L.png 0
+Texture   TexcWindow2M images/city/cWindow2M.png 0
+Texture   TexcWindow2R images/city/cWindow2R.png 0
+Texture   TexcWindow3L images/city/cWindow3L.png 0
+Texture   TexcWindow3M images/city/cWindow3M.png 0
+Texture   TexcWindow3R images/city/cWindow3R.png 0
+Texture   TexcWindow4L images/city/cWindow4L.png 0
+Texture   TexcWindow4M images/city/cWindow4M.png 0
+Texture   TexcWindow4R images/city/cWindow4R.png 0
+Texture   TexGrate1 images/city/grate1.png 0
+Texture   TexGrate2 images/city/grate2.png 0
+Texture   TexGround1 images/city/ground1.png 0
+Texture   TexGround2 images/city/ground2.png 0
+Texture   TexGround3 images/city/ground3.png 0
+Texture   TexGround4 images/city/ground4.png 0
+Texture   TexhWindow1L images/city/hWindow1L.png 0
+Texture   TexhWindow1M images/city/hWindow1M.png 0
+Texture   TexhWindow1R images/city/hWindow1R.png 0
+Texture   TexhWindow2L images/city/hWindow2L.png 0
+Texture   TexhWindow2M images/city/hWindow2M.png 0
+Texture   TexhWindow2R images/city/hWindow2R.png 0
+Texture   TexhWindow3L images/city/hWindow3L.png 0
+Texture   TexhWindow3M images/city/hWindow3M.png 0
+Texture   TexhWindow3R images/city/hWindow3R.png 0
+Texture   TexhWindow4L images/city/hWindow4L.png 0
+Texture   TexhWindow4M images/city/hWindow4M.png 0
+Texture   TexhWindow4R images/city/hWindow4R.png 0
+Texture   TexLadder1 images/city/ladder1.png 0
+Texture   TexLadder2 images/city/ladder2.png 0
+Texture   TexlColumn1L images/city/lColumn1L.png 0
+Texture   TexlColumn1R images/city/lColumn1R.png 0
+Texture   TexlColumn2L images/city/lColumn2L.png 0
+Texture   TexlColumn2R images/city/lColumn2R.png 0
+Texture   TexlColumn3L images/city/lColumn3L.png 0
+Texture   TexlColumn3R images/city/lColumn3R.png 0
+Texture   TexlColumn4L images/city/lColumn4L.png 0
+Texture   TexlColumn4R images/city/lColumn4R.png 0
+Texture   TexlWall1 images/city/lWall1.png 0
+Texture   TexlWall2 images/city/lWall2.png 0
+Texture   TexlWall3 images/city/lWall3.png 0
+Texture   TexmColumn1 images/city/mColumn1.png 0
+Texture   TexmColumn2 images/city/mColumn2.png 0
+Texture   TexmColumn3 images/city/mColumn3.png 0
+Texture   TexmColumn4 images/city/mColumn4.png 0
+Texture   TexoWindow1L images/city/oWindow1L.png 0
+Texture   TexoWindow1M images/city/oWindow1M.png 0
+Texture   TexoWindow1R images/city/oWindow1R.png 0
+Texture   TexoWindow2L images/city/oWindow2L.png 0
+Texture   TexoWindow2M images/city/oWindow2M.png 0
+Texture   TexoWindow2R images/city/oWindow2R.png 0
+Texture   TexoWindow3L images/city/oWindow3L.png 0
+Texture   TexoWindow3M images/city/oWindow3M.png 0
+Texture   TexoWindow3R images/city/oWindow3R.png 0
+Texture   TexoWindow4L images/city/oWindow4L.png 0
+Texture   TexoWindow4M images/city/oWindow4M.png 0
+Texture   TexoWindow4R images/city/oWindow4R.png 0
+Texture   TexPC1 images/city/pc1.png 0
+Texture   TexPC2 images/city/pc2.png 0
+Texture   TexrColumn1L images/city/rColumn1L.png 0
+Texture   TexrColumn1R images/city/rColumn1R.png 0
+Texture   TexrColumn2L images/city/rColumn2L.png 0
+Texture   TexrColumn2R images/city/rColumn2R.png 0
+Texture   TexrColumn3L images/city/rColumn3L.png 0
+Texture   TexrColumn3R images/city/rColumn3R.png 0
+Texture   TexrColumn4L images/city/rColumn4L.png 0
+Texture   TexrColumn4R images/city/rColumn4R.png 0
+Texture   TexrWall1 images/city/rWall1.png 0
+Texture   TexrWall2 images/city/rWall2.png 0
+Texture   TexrWall3 images/city/rWall3.png 0
+Texture   TexsPipe1 images/city/sPipe1.png 0
+Texture   TexsPipe2 images/city/sPipe2.png 0
+Texture   TexAntenna1 images/city/antenna1.png 0
+Texture   TexAntenna2 images/city/antenna2.png 0
+Texture   TexAntenna3 images/city/antenna3.png 0
+Texture   TexAntenna4 images/city/antenna4.png 0
+Texture   TexAntenna5 images/city/antenna5.png 0
+Texture   TexsWindow1L images/city/sWindow1L.png 0
+Texture   TexsWindow1M images/city/sWindow1M.png 0
+Texture   TexsWindow1R images/city/sWindow1R.png 0
+Texture   TexsWindow2L images/city/sWindow2L.png 0
+Texture   TexsWindow2M images/city/sWindow2M.png 0
+Texture   TexsWindow2R images/city/sWindow2R.png 0
+Texture   TexsWindow3L images/city/sWindow3L.png 0
+Texture   TexsWindow3M images/city/sWindow3M.png 0
+Texture   TexsWindow3R images/city/sWindow3R.png 0
+Texture   TexsWindow4L images/city/sWindow4L.png 0
+Texture   TexsWindow4M images/city/sWindow4M.png 0
+Texture   TexsWindow4R images/city/sWindow4R.png 0
+Texture   TextPipe1 images/city/tPipe1.png 0
+Texture   TextPipe2 images/city/tPipe2.png 0
+Texture   TextPipe3 images/city/tPipe3.png 0
+Texture   TexWire1 images/city/wire1.png 0
+Texture   TexWire2 images/city/wire2.png 0
+Animation DroidWalk  TexDroidWalk   6    5    0
+Animation DroidAtk   TexDroidAtk   14    4    0
+Animation DroidDeath TexDroidDeath  9    7    0
+Animation GoomBotWalk  TexGoomBotWalk   6    5    0
+Animation GoomBotAtk   TexGoomBotAtk    6    5    0
+Animation GoomBotDeath TexGoomBotDeath  9    7    0
+Animation GoomBotHurt  TexGoomBotHurt   6    7    0
+Animation GoomBotIdle  TexGoomBotIdle   1    0    0
+Animation GoomBotWake  TexGoomBotWake   6    7    0
+Animation GuardWalk  TexGuardWalk   9    7    0
+Animation GuardAtk   TexGuardAtk    16   4    0
+Animation GuardDeath TexGuardDeath  10   7    0
+Animation BossWalk   TexBossWalk   4    5    0
+Animation BossAtk    TexBossAtk    18   4    0
+Animation BossDeath  TexBossDeath  8    7    0
+Animation BossHurt   TexBossHurt   6    7    0
+Animation BossIdle   TexBossIdle   6    0    0
+Animation BossWake   TexBossWake   6    6    0
+Animation BossTele0  TexBossTele0  6    6    0
+Animation BossTele1  TexBossTele1  4    6    0
+Animation Stand      TexStand       5   10    0
+Animation Run        TexRun         8    5    0
+Animation Air        TexAir         2   10    0
+Animation Slide      TexSlide       1    0    0
+Animation Attack     TexAttack      4    2    1
+Animation Jump       TexJump        3    4    1
+Animation Land	     TexLand        2    4    1
+Animation Die        TexDie         5   10    1
+Animation Hurt	     TexHurt	    2    4    1
+Animation Buster     TexBuster      6    7    0
+Animation Arrow      TexArrow       1    0    0
+Animation Heal       TexHeal        5   10    0
+Animation HealArrow  TexHealArrow   1    0    0
+Animation Explosion  TexExplode    32    2    0
+Animation Rock1      TexRock1    1    0    0
+Animation Rock2      TexRock2    1    0    0
+Animation Goal	     TexGoal     1    0    0
+Animation Invisible  TexInvis    1    0    0
+Animation Fridge     TexFridge   1    0    0
+Animation Fast       TexFast     1    0    0
+Animation Win        TexWin      2    20   0
+Animation Missle     TexMissle   4    7    0
+Animation bFloat1 TexbFloat1   1 0 0
+Animation bFloat2 TexbFloat2   1 0 0
+Animation bFloat3 TexbFloat3   1 0 0
+Animation bFloat4 TexbFloat4   1 0 0
+Animation bFloat5 TexbFloat5   1 0 0
+Animation bFloat6 TexbFloat6   1 0 0
+Animation bFloatBL TexbFloatBL 1 0 0
+Animation   bFloatBM TexbFloatBM 1 0 0
+Animation   bFloatBR TexbFloatBR 1 0 0
+Animation   bFloatML TexbFloatML 1 0 0
+Animation   bFloatMM TexbFloatMM 1 0 0
+Animation   bFloatMR TexbFloatMR 1 0 0
+Animation   bFloatTL TexbFloatTL 1 0 0
+Animation   bFloatTM TexbFloatTM 1 0 0
+Animation   bFloatTR TexbFloatTR 1 0 0
+Animation   bGrass1  TexbGrass1 1 0 0
+Animation   bGrass2  TexbGrass2 1 0 0
+Animation   bGrass3  TexbGrass3 1 0 0
+Animation   Bridge   TexBridge 1 0 0
+Animation   BushL    TexBushL 1 0 0
+Animation   BushM    TexBushM 1 0 0
+Animation   BushR    TexBushR 1 0 0
+Animation   Fence1   TexFence1 1 0 0
+Animation   Fence2   TexFence2 1 0 0
+Animation   Fence3   TexFence3 1 0 0
+Animation   Fence4   TexFence4 1 0 0
+Animation   Float1   TexFloat1 1 0 0
+Animation   Float2   TexFloat2 1 0 0
+Animation   Float3   TexFloat3 1 0 0
+Animation   Float4   TexFloat4 1 0 0
+Animation   Float5   TexFloat5 1 0 0
+Animation   Float6   TexFloat6 1 0 0
+Animation   Float7   TexFloat7 1 0 0
+Animation   Float8   TexFloat8 1 0 0
+Animation   Float9   TexFloat9 1 0 0
+Animation   FloatBL  TexFloatBL 1 0 0
+Animation   FloatBM  TexFloatBM 1 0 0
+Animation   FloatBR  TexFloatBR 1 0 0
+Animation   FloatML  TexFloatML 1 0 0
+Animation   FloatMM  TexFloatMM 1 0 1
+Animation   FloatMR  TexFloatMR 1 0 0
+Animation   FloatTL  TexFloatTL 1 0 0
+Animation   FloatTM  TexFloatTM 1 0 0
+Animation   FloatTR  TexFloatTR 1 0 0
+Animation   Grass1   TexGrass1 1 0 0
+Animation   Grass2   TexGrass2 1 0 0
+Animation   Grass3   TexGrass3 1 0 0
+Animation   Grass4   TexGrass4 1 0 0
+Animation   GrassL   TexGrassL 1 0 0
+Animation   GrassR   TexGrassR 1 0 0
+Animation   PostL    TexPostL 1 0 0
+Animation   PostR    TexPostR 1 0 0
+Animation   Spikes   TexSpikes 1 0 0
+Animation   ArrowIcon TexArrowIcon 1 0 0
+Animation   HeartIcon TexHeartIcon 1 0 0
+Animation   LaserIcon TexLaserIcon 1 0 0
+Animation   AC1 TexAC1 1 0 0
+Animation   AC2 TexAC2 1 0 0
+Animation   AC3 TexAC3 1 0 0
+Animation   AC4 TexAC4 1 0 0
+Animation   bPipe1L TexbPipe1L 1 0 0
+Animation   bPipe1M TexbPipe1M 1 0 0
+Animation   bPipe1R TexbPipe1R 1 0 0
+Animation   bPipe2L TexbPipe2L 1 0 0
+Animation   bPipe2M TexbPipe2M 1 0 0
+Animation   bPipe2R TexbPipe2R 1 0 0
+Animation   Ceiling TexCeiling 1 0 0
+Animation   cWindow1L TexcWindow1L 1 0 0
+Animation   cWindow1M TexcWindow1M 1 0 0
+Animation   cWindow1R TexcWindow1R 1 0 0
+Animation   cWindow2L TexcWindow2L 1 0 0
+Animation   cWindow2M TexcWindow2M 1 0 0
+Animation   cWindow2R TexcWindow2R 1 0 0
+Animation   cWindow3L TexcWindow3L 1 0 0
+Animation   cWindow3M TexcWindow3M 1 0 0
+Animation   cWindow3R TexcWindow3R 1 0 0
+Animation   cWindow4L TexcWindow4L 1 0 0
+Animation   cWindow4M TexcWindow4M 1 0 0
+Animation   cWindow4R TexcWindow4R 1 0 0
+Animation   Grate1 TexGrate1 1 0 0
+Animation   Grate2 TexGrate2 1 0 0
+Animation   Ground1 TexGround1 1 0 0
+Animation   Ground2 TexGround2 1 0 0
+Animation   Ground3 TexGround3 1 0 0
+Animation   Ground4 TexGround4 1 0 0
+Animation   hWindow1L TexhWindow1L 1 0 0
+Animation   hWindow1M TexhWindow1M 1 0 0
+Animation   hWindow1R TexhWindow1R 1 0 0
+Animation   hWindow2L TexhWindow2L 1 0 0
+Animation   hWindow2M TexhWindow2M 1 0 0
+Animation   hWindow2R TexhWindow2R 1 0 0
+Animation   hWindow3L TexhWindow3L 1 0 0
+Animation   hWindow3M TexhWindow3M 1 0 0
+Animation   hWindow3R TexhWindow3R 1 0 0
+Animation   hWindow4L TexhWindow4L 1 0 0
+Animation   hWindow4M TexhWindow4M 1 0 0
+Animation   hWindow4R TexhWindow4R 1 0 0
+Animation   Ladder1 TexLadder1 1 0 0
+Animation   Ladder2 TexLadder2 1 0 0
+Animation   lColumn1L TexlColumn1L 1 0 0
+Animation   lColumn1R TexlColumn1R 1 0 0
+Animation   lColumn2L TexlColumn2L 1 0 0
+Animation   lColumn2R TexlColumn2R 1 0 0
+Animation   lColumn3L TexlColumn3L 1 0 0
+Animation   lColumn3R TexlColumn3R 1 0 0
+Animation   lColumn4L TexlColumn4L 1 0 0
+Animation   lColumn4R TexlColumn4R 1 0 0
+Animation   lWall1 TexlWall1 1 0 0
+Animation   lWall2 TexlWall2 1 0 0
+Animation   lWall3 TexlWall3 1 0 0
+Animation   mColumn1 TexmColumn1 1 0 0
+Animation   mColumn2 TexmColumn2 1 0 0
+Animation   mColumn3 TexmColumn3 1 0 0
+Animation   mColumn4 TexmColumn4 1 0 0
+Animation   oWindow1L TexoWindow1L 1 0 0
+Animation   oWindow1M TexoWindow1M 1 0 0
+Animation   oWindow1R TexoWindow1R 1 0 0
+Animation   oWindow2L TexoWindow2L 1 0 0
+Animation   oWindow2M TexoWindow2M 1 0 0
+Animation   oWindow2R TexoWindow2R 1 0 0
+Animation   oWindow3L TexoWindow3L 1 0 0
+Animation   oWindow3M TexoWindow3M 1 0 0
+Animation   oWindow3R TexoWindow3R 1 0 0
+Animation   oWindow4L TexoWindow4L 1 0 0
+Animation   oWindow4M TexoWindow4M 1 0 0
+Animation   oWindow4R TexoWindow4R 1 0 0
+Animation   PC1 TexPC1 1 0 0
+Animation   PC2 TexPC2 1 0 0
+Animation   rColumn1L TexrColumn1L 1 0 0
+Animation   rColumn1R TexrColumn1R 1 0 0
+Animation   rColumn2L TexrColumn2L 1 0 0
+Animation   rColumn2R TexrColumn2R 1 0 0
+Animation   rColumn3L TexrColumn3L 1 0 0
+Animation   rColumn3R TexrColumn3R 1 0 0
+Animation   rColumn4L TexrColumn4L 1 0 0
+Animation   rColumn4R TexrColumn4R 1 0 0
+Animation   rWall1 TexrWall1 1 0 0
+Animation   rWall2 TexrWall2 1 0 0
+Animation   rWall3 TexrWall3 1 0 0
+Animation   sPipe1 TexsPipe1 1 0 0
+Animation   sPipe2 TexsPipe2 1 0 0
+Animation   Antenna1 TexAntenna1 1 0 0
+Animation   Antenna2 TexAntenna2 1 0 0
+Animation   Antenna3 TexAntenna3 1 0 0
+Animation   Antenna4 TexAntenna4 1 0 0
+Animation   Antenna5 TexAntenna5 1 0 0
+Animation   sWindow1L TexsWindow1L 1 0 0
+Animation   sWindow1M TexsWindow1M 1 0 0
+Animation   sWindow1R TexsWindow1R 1 0 0
+Animation   sWindow2L TexsWindow2L 1 0 0
+Animation   sWindow2M TexsWindow2M 1 0 0
+Animation   sWindow2R TexsWindow2R 1 0 0
+Animation   sWindow3L TexsWindow3L 1 0 0
+Animation   sWindow3M TexsWindow3M 1 0 0
+Animation   sWindow3R TexsWindow3R 1 0 0
+Animation   sWindow4L TexsWindow4L 1 0 0
+Animation   sWindow4M TexsWindow4M 1 0 0
+Animation   sWindow4R TexsWindow4R 1 0 0
+Animation   Pipe1 TextPipe1 1 0 0
+Animation   Pipe2 TextPipe2 1 0 0
+Animation   Pipe3 TextPipe3 1 0 0
+Animation   Wire1 TexWire1 1 0 0
+Animation   Wire2 TexWire2 1 0 0
+Sound     MusicTitle    sounds/title.ogg
+Sound     MusicLevel    sounds/music.ogg
+Sound     MainMenu      sounds/mainMenu.wav
+Sound     Win		sounds/winSound.ogg
+Sound	  Play		sounds/meg.ogg
+Sound     PlayerHurt    sounds/playerHurt.wav
+Sound     EnemyHit      sounds/enemyHurt2.wav
+Sound     PlayerDie     sounds/playerDie.ogg
+Sound     EnemyDie      sounds/enemyDie.wav
+Sound     GetItem       sounds/ammoPickup.wav
+Sound     startSound    sounds/startSound.wav
+Sound     menuBlip      sounds/menuBlip.wav
+Sound	  Shoot		sounds/laser.wav
+Sound	  Jump		sounds/jump.wav
+Sound	  Bow		sounds/bow.ogg
+Sound	  potentiallyBEEGERLazer sounds/potentiallyBEEGERLazer.ogg
+Font      Arial      fonts/arial.ttf
+Font      Mario      fonts/mario.ttf
+Font      Megaman    fonts/megaman.ttf
+Font      Metal      fonts/Metallic.ttf

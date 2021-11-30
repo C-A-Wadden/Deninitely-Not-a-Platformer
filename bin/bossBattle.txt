@@ -1,0 +1,218 @@
+Tile lWall3 0 1
+Tile lWall2 0 2
+Tile lWall2 0 3
+Tile lWall1 0 4
+Tile Ground3 0 5
+Dec Ground4 1 5
+Tile lWall3 0 6
+Tile lWall2 0 7
+Tile lWall2 0 8
+Tile lWall1 0 9
+Tile Ground3 0 10
+Dec Ground4 1 10
+Tile lWall3 0 11
+Tile Ground3 0 0
+Tile Ground2 1 0
+Tile Ground3 2 0
+Tile Ground2 3 0
+Tile Ground3 4 0
+Tile Ground2 5 0
+Tile Ground3 6 0
+Tile Ground2 7 0
+Tile Ground3 8 0
+Tile Ground2 9 0
+Tile Ground3 10 0
+Tile Ground2 11 0
+Tile Ground3 12 0
+Tile Ground2 13 0
+Tile Ground3 14 0
+Tile Ground2 15 0
+Tile Ground3 16 0
+Tile Ground2 17 0
+Tile Ground3 18 0
+Tile Ground2 19 0
+Tile Ground3 20 0
+Tile Ground2 21 0
+Tile Ground3 22 0
+Tile Ground2 23 0
+
+Dec Ground1 2 3
+Tile Ground2 3 3
+Tile Ground3 4 3
+Tile Ground2 5 3
+Dec Ground4 6 3
+
+Tile lWall3 23 1
+Tile lWall2 23 2
+Tile lWall2 23 3
+Tile lWall1 23 4
+Tile Ground2 23 5
+Dec Ground1 22 5
+Tile lWall3 23 6
+Tile lWall2 23 7
+Tile lWall2 23 8
+Tile lWall1 23 9
+Tile Ground3 23 10
+Dec Ground1 22 10
+Tile lWall3 23 11
+
+Dec Ground1 16 3
+Tile Ground2 17 3
+Tile Ground3 18 3
+Tile Ground2 19 3
+Dec Ground4 20 3
+
+Dec Ground1 10 5
+Tile Ground2 11 5
+Tile Ground3 12 5
+Tile Ground2 13 5
+Dec Ground4 14 5
+
+Dec Ground1 10 9
+Tile Ground2 11 9
+Tile Ground3 12 9
+Tile Ground2 13 9
+Dec Ground4 14 9
+
+Tile Ground3 24 0
+Tile Ground2 25 0
+Tile Ground3 26 0
+Tile Ground2 27 0
+Tile Ground3 28 0
+Tile Ground2 29 0
+Tile Ground3 30 0
+Tile Ground2 31 0
+Tile Ground3 32 0
+
+Tile Ground3 24 5
+Tile Ground2 25 5
+Tile Ground3 26 5
+Tile Ground2 27 5
+Tile Ground3 28 5
+Tile Ground2 29 5
+Tile Ground3 30 5
+Tile Ground2 31 5
+Tile Ground3 32 5
+
+Tile Ground3 24 10
+Tile Ground2 25 10
+Tile Ground3 26 10
+Tile Ground2 27 10
+Tile Ground3 28 10
+Tile Ground2 29 10
+Tile Ground3 30 10
+Tile Ground2 31 10
+Tile Ground3 32 10
+
+Tile sWindow1M 24 1
+Tile sWindow1M 24 2
+Tile sWindow1M 24 3
+Tile sWindow1M 24 4
+Tile sWindow1M 24 6
+Tile sWindow1M 24 7
+Tile sWindow1M 24 8
+Tile sWindow1M 24 9
+Tile sWindow1M 24 11
+
+Dec cWindow1L 25 4
+Dec cWindow1M 26 4
+Dec cWindow1R 27 4
+Dec cWindow2L 25 3
+Dec cWindow2M 26 3
+Dec cWindow2R 27 3
+Dec cWindow3L 25 2
+Dec cWindow3M 26 2
+Dec cWindow3R 27 2
+Dec cWindow4L 25 1
+Dec cWindow4M 26 1
+Dec cWindow4R 27 1
+
+Dec oWindow1L 25 9
+Dec oWindow1M 26 9
+Dec oWindow1R 27 9
+Dec oWindow2L 25 8
+Dec oWindow2M 26 8
+Dec oWindow2R 27 8
+Dec oWindow3L 25 7
+Dec oWindow3M 26 7
+Dec oWindow3R 27 7
+Dec oWindow4L 25 6
+Dec oWindow4M 26 6
+Dec oWindow4R 27 6
+
+Dec lColumn1L 28 9
+Dec lColumn2L 28 8
+Dec lColumn3L 28 7
+Dec lColumn4L 28 6
+Dec lColumn1L 28 4
+Dec lColumn2L 28 3
+Dec lColumn3L 28 2
+Dec lColumn4L 28 1
+
+Dec mColumn1 29 9
+Dec mColumn2 29 8
+Dec mColumn3 29 7
+Dec mColumn4 29 6
+Dec mColumn1 29 4
+Dec mColumn2 29 3
+Dec mColumn3 29 2
+Dec mColumn4 29 1
+
+Dec rColumn1R 30 9
+Dec rColumn2R 30 8
+Dec rColumn3R 30 7
+Dec rColumn4R 30 6
+Dec rColumn1R 30 4
+Dec rColumn2R 30 3
+Dec rColumn3R 30 2
+Dec rColumn4R 30 1
+
+Dec hWindow1L 31 9
+Dec hWindow1M 32 9
+Dec hWindow1R 33 9
+Dec hWindow2L 31 8
+Dec hWindow2M 32 8
+Dec hWindow2R 33 8
+Dec hWindow3L 31 7
+Dec hWindow3M 32 7
+Dec hWindow3R 33 7
+Dec hWindow4L 31 6
+Dec hWindow4M 32 6
+Dec hWindow4R 33 6
+
+Dec oWindow1L 31 4
+Dec oWindow1M 32 4
+Dec oWindow1R 33 4
+Dec oWindow2L 31 3
+Dec oWindow2M 32 3
+Dec oWindow2R 33 3
+Dec oWindow3L 31 2
+Dec oWindow3M 32 2
+Dec oWindow3R 33 2
+Dec oWindow4L 31 1
+Dec oWindow4M 32 1
+Dec oWindow4R 33 1
+
+Tile sWindow1M 25 11
+Tile sWindow1M 26 11
+Tile sWindow1M 27 11
+Tile sWindow1M 28 11
+Tile sWindow1M 29 11
+Tile sWindow1M 30 11
+Tile sWindow1M 31 11
+Tile sWindow1M 32 11
+
+PickUp HeartIcon 12 6 5
+PickUp HeartIcon 12 6 5
+PickUp HeartIcon 12 6 5
+PickUp HeartIcon 12 6 5
+PickUp ArrowIcon 18 4 4
+PickUp ArrowIcon 18 4 4
+PickUp ArrowIcon 18 4 4
+PickUp ArrowIcon 18 4 4
+PickUp Fridge 4 4 2
+PickUp Invisible 12 10 0
+
+NPC Boss 12 1.5 20 1 170  Follow 3
+
+Player 1 2 12 19 5 -18 20 0.75
